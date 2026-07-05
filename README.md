@@ -71,15 +71,29 @@ Hardcore DIY folks: the YAML ports to any ESP32-S3 with pin adjustments — ever
 
 ### Wiring
 
-| Signal | GPIO |
-|---|---|
-| I2C SDA (SCD40) | 1 |
-| I2C SCL (SCD40) | 2 |
-| I2S BCLK (audio) | 5 |
-| I2S LRCLK (audio) | 6 |
-| I2S DOUT (audio) | 7 |
-| RGB LED (onboard) | 35 |
-| Button (onboard) | 41 |
+**SCD40 → AtomS3 Lite** (via Grove connector):
+
+| SCD40 pin | AtomS3 pin | Grove wire |
+|-----------|------------|------------|
+| VDD | 5V | red |
+| GND | GND | black |
+| SDA | GPIO 1 | yellow |
+| SCL | GPIO 2 | white |
+
+**MAX98357A amplifier → AtomS3 Lite** (optional — TTS speaker; Dupont female-male cables, ~10 cm):
+
+| MAX98357A pin | AtomS3 pin |
+|---------------|------------|
+| VIN | 3V3 (top left) |
+| GND | G (right column) |
+| BCLK | G5 |
+| LRC | G6 |
+| DIN | G7 |
+| Speaker + / − | your 4Ω speaker |
+
+**Onboard (nothing to wire):** RGB LED = GPIO 35, button = GPIO 41 — both built into the Atom.
+
+That's it — one Grove cable for the sensor, 5 wires if you want it to talk. No soldering needed.
 
 ---
 
