@@ -185,7 +185,7 @@ This repo gets you a working sensor on your desk. The [**murCO Starter Kit**](ht
 
 ---
 
-**If this saved you an evening, a ⭐ helps others find it.** Useful beyond that? You can [buy us a beer 🍺](https://murco.design) — or better, get the shell and give this sensor a home.
+**If this saved you an evening, a ⭐ helps others find it.** Useful beyond that? You can [buy us a beer 🍺](https://buymeacoffee.com/murco.design)— or better, get the shell and give this sensor a home.
 
 <p align="center">
   Made in Slovakia 🇸🇰 · <a href="https://murco.design">murco.design</a> · claim your spot on the <a href="https://murco.design/map">murCO world map</a>
