@@ -1,5 +1,5 @@
 <p align="center">
- <img src="docs/images/hero.jpg">
+ <img src="docs/image/hero.jpg">
 </p>
 
 # murCO Planter — a CO₂ monitor that lives in your living room
