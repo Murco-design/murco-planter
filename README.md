@@ -9,8 +9,7 @@ A local-only CO₂ / air quality monitor **and TTS notification speaker** for Ho
 Built on ESPHome · Sensirion SCD40 (true NDIR) · M5Stack AtomS3 Lite (ESP32-S3) · **Firmware: MIT licensed**
 
 > **The idea in one sentence:** your air quality device should tell you when to open a window — and look good enough to sit next to your books while doing it. Even kids get it: **red = open the window.**
->
-> And even kids can build it: this design was tested by my sons (10 and 13) and our neighbor's family — every step they stumbled on, we made simpler.
+>And even kids can build it: this design was tested by my sons (10 and 13) and our neighbor's family — every step they stumbled on, we made simpler.
 
 ---
 
