@@ -148,7 +148,6 @@ Things that cost us evenings across 58 firmware compilations:
 
 I wanted precise, local CO₂ data in Home Assistant — no cloud, no subscription. The prototype worked, but it was a mess of wires. My father, a mechanical engineer who spent his career designing industrial machinery, engineered the enclosure. My brother designed the polygonal shell. Then the build guide went through the toughest QA there is: my sons (10 and 13) and the neighbor's family built their own murCOs, and every step that confused them got rewritten. Months of walks and late evenings later, murCO is what it is: **three people, one device. Built by a family, for yours.**
 
-[PHOTO — the family / the workshop / early prototypes, if you have one]
 
 ---
 
