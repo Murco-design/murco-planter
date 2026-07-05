@@ -1,5 +1,5 @@
 <p align="center">
-  [PHOTO — hero shot: finished murCO with air plant, living room, LED visible]
+ <img src="docs/images/hero.jpg">
 </p>
 
 # murCO Planter — a CO₂ monitor that lives in your living room
