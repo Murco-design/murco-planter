@@ -26,7 +26,7 @@ Everything you need to build a **fully working sensor**:
 
 **What's not here:** the 3D-printed geometric shell (STL), the illustrated 10-chapter build manual, and email support. Those live in the [murCO Starter Kit →](https://murco.design) — it's how a father-and-sons project funds itself. **The brain is free. The beauty is the product.**
 
-[PHOTO — side by side: bare components on desk vs. finished murCO in shell]
+<!-- [PHOTO — side by side: bare components vs. finished murCO] -->
 
 ---
 
@@ -184,7 +184,7 @@ This repo gets you a working sensor on your desk. The [**murCO Starter Kit**](ht
 
 ---
 
-**If this saved you an evening, a ⭐ helps others find it.** Useful beyond that? You can [buy us a beer 🍺](https://buymeacoffee.com/murco.design)— or better, get the shell and give this sensor a home.
+**If this saved you an evening, a ⭐ helps others find it.** Useful beyond that? You can [buy us a beer 🍺](https://buymeacoffee.com/murco.design) — or better, get the shell and give this sensor a home.
 
 <p align="center">
   Made in Slovakia 🇸🇰 · <a href="https://murco.design">murco.design</a> · claim your spot on the <a href="https://murco.design/map">murCO world map</a>
