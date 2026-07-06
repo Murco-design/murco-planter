@@ -27,7 +27,7 @@ Everything you need to build a **fully working sensor**:
 **What's not here:** the 3D-printed geometric shell (STL), the illustrated 10-chapter build manual, and email support. Those live in the [murCO Starter Kit →](https://murco.design) — it's how a father-and-sons project funds itself. **The brain is free. The beauty is the product.**
 
 <p align="center">
-  <img src="docs/images/bare-vs-shell.jpg" alt="Everything in this repo, working — and the same build inside the murCO shell" width="700">
+  <img src="docs/image/bare-vs-shell.jpg" alt="Everything in this repo, working — and the same build inside the murCO shell" width="700">
 </p>
 
 ---
