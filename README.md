@@ -192,6 +192,8 @@ This repo gets you a working sensor on your desk. The [**murCO Starter Kit**](ht
 
 **Fahrenheit?** Home Assistant converts automatically based on your unit settings. The device web UI and threshold sliders are °C for now.
 
+**Why not just buy an AirGradient or Apollo AIR-1?**. Both are great — genuinely. But they look like measuring instruments, and I wanted something that earns its spot on the living room shelf. murCO is for the living room, not the utility closet. (Also: it talks, and my kids built one.) If you need PM2.5 or a proven ecosystem, try one of those — they're excellent. If you want it beautiful, talking, and built together with your kids, that's murCO.
+
 **A Zigbee version?** Not planned for v1 — murCO is built around ESPHome's native API (and the TTS speaker needs the horsepower anyway). If you'd want one, open an issue and tell us — we're counting.
 
 **License?** Firmware is **MIT** — use it, modify it, ship it, just keep the attribution. The murCO name and logo, the shell design (STL files) and the build manual are proprietary and **not** covered by the MIT license.
