@@ -46,6 +46,9 @@ Everything you need to build a **fully working sensor**:
 | 📶 **BLE proxy** | Bonus: extends your HA Bluetooth range |
 | 🏠 **100 % local** | ESPHome native API, encrypted, auto-discovered by HA. Web UI included — works without HA too |
 
+<p align="center">
+ <img src="docs/image/MurCO_HA.png">
+</p>
 ---
 
 ## Bill of materials (~€35–40 total)
