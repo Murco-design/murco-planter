@@ -1,8 +1,4 @@
 <p align="center">
- <img src="docs/image/murco_living5.jpg">
-</p>
-
-<p align="center">
  <img src="docs/image/hero.jpg">
 </p>
 
