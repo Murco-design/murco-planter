@@ -58,7 +58,7 @@ Everything you need to build a **fully working sensor**:
 | M5Stack AtomS3 Lite | ESP32-S3 in a finished case — see below why |
 | Sensirion SCD40 module | True NDIR CO₂ sensing, plus temperature and humidity. Building without the murCO shell? An SCD41 is also supported by the same ESPHome scd4x component. Using the murCO shell? Choose the pre-soldered 22 × 14 mm SCD40 breakout specified in the BOM — the internal mount is designed for that exact board size and layout. Other breakout boards are not verified to fit.). Verified sourcing links are included in the Master Kit. |
 | MAX98357A I2S amplifier | Optional — only if you want the TTS speaker |
-| Small 4Ω speaker (~2–3 W) | Optional, pairs with the amp |
+| Small 8Ω speaker (~2–3 W) | Optional, pairs with the amp |
 | Grove cable / dupont wires | I2C hookup |
 | USB-C cable + 5V supply | Power |
 
