@@ -36,7 +36,7 @@ Everything you need to build a **fully working sensor**:
 
 | Feature | How it works |
 |---|---|
-| 🟢🟠🔴 **CO₂ at a glance** | LED color by ppm (ASHRAE/REHVA thresholds). Standard 3-zone or sensitive 4-zone mode |
+| 🟢🟠🔴 **CO₂ at a glance** | LED color by ppm. Standard 3-zone or sensitive 4-zone mode |
 | 🗣 **It talks** | TTS speaker as a native HA `media_player` — announce CO₂ alerts, doorbells, anything |
 | 🌡 **Climate report** | Long-press the button → temperature as color + optional voice report |
 | 💧 **Plant watering tracker** | Blue pulse when your Tillandsia is thirsty (or disable it) |
@@ -179,7 +179,7 @@ This repo gets you a working sensor on your desk. The [**murCO Master Kit**](htt
 - 🌿 Plant guide (yes, it's also a real planter — Tillandsia air plants, no soil)
 - 💬 Email support from the person who wrote the firmware
 
-**€23** at [murco.design](https://murco.design) · works out to ~€60 all-in including parts — compare that to $150+ consumer monitors that phone home.
+**€23 digital kit ** at [murco.design](https://murco.design) · Electronics cost approximately €37, or €45 with optional audio. Printing and shipping extr.
 
 ---
 
@@ -208,5 +208,5 @@ This repo gets you a working sensor on your desk. The [**murCO Master Kit**](htt
 **If this saved you an evening, a ⭐ helps others find it.** Useful beyond that? You can [buy us a beer 🍺](https://buymeacoffee.com/murco.design) — or better, get the shell and give this sensor a home.
 
 <p align="center">
-  Made by family · <a href="https://murco.design">murco.design</a> · claim your spot on the <a href="https://murco.design/map">murCO world map</a>
+  Made by family · <a href="https://murco.design">murco.design</a> · 
 </p>
